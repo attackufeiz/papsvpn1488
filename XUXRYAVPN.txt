@@ -3,7 +3,6 @@
 #announce: xuxrya vpn - круто
 #profile-update-interval: 24
 
-vless://001f029f-27e9-4bdd-a417-a221e562777d@s9.ipbegir.com:443?security=reality&encryption=none&pbk=bQPnghTtDxknIOc6OVEt9rKetZDmkmEBN76MFi_nL0k&headerType=none&fp=firefox&spx=%2Ffavicon.ico&type=tcp&flow=xtls-rprx-vision&sni=login.steampowered.com&sid=b039d6#%F0%9F%87%A7%F0%9F%87%B7%20attackufeiz
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJwcmVtaXVtIGtleSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#%F0%9F%87%A9%F0%9F%87%AAattackufeiz%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw%3D%3D@95.164.10.228:443#attackufeiz
@@ -17,15 +16,17 @@ vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D%20CA%204897097
 vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0MS42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IltvcGVucHJveHlsaXN0LmNvbV0gSlAgMTEzMzkyMDAiLCJzY3kiOiJhdXRvIiwic25pIjoidDEuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ww20.sgxaniu.qzz.io&type=ws&sni=ww20.sgxaniu.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
-vless://00a85603-d8c6-437d-a8bd-ea521107bd87@139.28.96.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=danfeng.ye.gs&type=ws&sni=danfeng.ye.gs#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-DE
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-AT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw%3D%3D@95.164.10.228:443#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%B0-Copenhagen-275ms-PQ%20HOSTING%20PLUS%20S.R.L.
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJUZWxlZ3JhbTpAS3VyZGlzdGFuX3ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.224.5:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=l.ayovo.netlib.re#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%912
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F&security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be#%E6%9C%AA%E7%9F%A511
-trojan://zWFjJENcljZm@usa.visa.com:443?path=%2F%3Fed%3D2560&security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#%E6%9C%AA%E7%9F%A53
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:4006?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&fp=firefox&spx=%2F&type=xhttp&sni=github.com&sid=bcbfa46faa4370d2#catlerVPN
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D%20CA%204897097
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&type=grpc#%5Bopenproxylist.com%5D%20DE%2012511396
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%5Bopenproxylist.com%5D%20NL%205664246
+
 
 
 
